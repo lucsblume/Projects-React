@@ -1,0 +1,9 @@
+PROJETO PARA VER O CLIMA DE CIDADES
+
+pacotes,extensões, api usadas:
+
+OpenWeatherAPI - API(não é necessario instalação) (https://home.openweathermap.org/)
+
+bootstrap - pacote de css
+
+Weather Icons - pacote de icones
