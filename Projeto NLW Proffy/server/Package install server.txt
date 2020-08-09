@@ -1,0 +1,19 @@
+#Linguagem usada no server Typescript
+
+-npm init -y(iniciar json)
+
+-npm install typescript -D(dependencia typescript)
+
+-npx tsc --init (Arquivo configurações de typescript)
+
+-npm install ts-node-dev -D(executa o servidor e fica observando as alterações no script)
+
+-npm install express (Micro frameWork)(traz algumas funcionalidades ja prontas)(gerenciamento de configurações http...etc)
+
+ -npm install @types/express -D (para concerta os erros de compatibilidade com o TypeScript)
+
+-INSTALAÇÃO DE BANCO DE DADOS:
+
+--npm install knex sqlite3;
+
+-npm install cors(pacote que faz conexões entre clientes HTTPS diferentes)

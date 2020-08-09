@@ -1,0 +1,17 @@
+Projeto de plataforma de ensino:
+
+Usando React,typescript... etc
+
+PACOTES USADOS:
+
+npm install react-router-dom
+
+/------INSTALAÇÃO DE DEPENDENCIAS DE COMPATIBILIDADE COM O TYPESCRIPT------\
+
+npm install @types/react-router-dom -D
+
+npm install -D @types/react(resove os problemas de integração com o typescript)
+
+npm install -D @types/react-dom
+
+npm install axios(facilita consumir API´S EXTERNAS)
