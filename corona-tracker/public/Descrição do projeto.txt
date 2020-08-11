@@ -1,0 +1,9 @@
+PACOTES, API´S ETC... INSTALADAS:
+
+-Axios(necessario instalação)(CLIENTE HTTP)
+
+-npm install --save axios react-chartjs-2 react-contup classnames (axios = faz conexão com a api e a aplicação) (reac-contup = faz animações de numeros definindo um inicio, um fim e a duração.) ( react-chartjs-2 - biblioteca que traz graficos em barras, linhas e setores)
+
+-npm install --save @material-ui/core (Pacote de material designers UI) (--save: salva o pacote no arquivo package.json para referencia de projeto)
+
+-npm install --save chart.js (biblioteca grafica)
