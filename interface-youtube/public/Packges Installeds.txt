@@ -1,0 +1,2 @@
+-npm install @material-ui/core //pacote de estilods,css e demais configuções de UI
+-npm install @material-ui/icons // icones do material UI
